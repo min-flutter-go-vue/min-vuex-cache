@@ -16,7 +16,7 @@
 # 安装
 
 ```
-npm i @min_flutter_go_vue/min-vuex-cache
+npm i min-vuex-cache
 ```
 
 # 使用方法
@@ -25,13 +25,13 @@ npm i @min_flutter_go_vue/min-vuex-cache
 
 ---- store
 
-​	---- modules
+​   ---- modules
 
-​		---- test1.js
+​   ---- test1.js
 
-​		---- test2.js
+​   ---- test2.js
 
-​	---- index.js
+​---- index.js
 
 `index.js` 文件内容
 
